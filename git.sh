@@ -5,7 +5,7 @@ echo beginner how to explore basics to github once it is installed
 echo Here's a step-by-step guide to help you get started:
  
 echo  Set Up Git
-
+Ech0 
 echo Configure Git
 git config --global user.name "Your Name"
 git config --global user.email "your_email@example.com"
